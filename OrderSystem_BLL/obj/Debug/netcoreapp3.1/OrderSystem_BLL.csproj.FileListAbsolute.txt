@@ -1,0 +1,16 @@
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\bin\Debug\netcoreapp3.1\OrderSystem_BLL.deps.json
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\bin\Debug\netcoreapp3.1\OrderSystem_BLL.runtimeconfig.json
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\bin\Debug\netcoreapp3.1\OrderSystem_BLL.runtimeconfig.dev.json
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\bin\Debug\netcoreapp3.1\OrderSystem_BLL.dll
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\bin\Debug\netcoreapp3.1\OrderSystem_BLL.pdb
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\bin\Debug\netcoreapp3.1\OrderSystem_DAL.dll
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\bin\Debug\netcoreapp3.1\OrderSystem_DAL.pdb
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\obj\Debug\netcoreapp3.1\OrderSystem_BLL.csproj.AssemblyReference.cache
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\obj\Debug\netcoreapp3.1\OrderSystem_BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\obj\Debug\netcoreapp3.1\OrderSystem_BLL.AssemblyInfoInputs.cache
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\obj\Debug\netcoreapp3.1\OrderSystem_BLL.AssemblyInfo.cs
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\obj\Debug\netcoreapp3.1\OrderSystem_BLL.csproj.CoreCompileInputs.cache
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\obj\Debug\netcoreapp3.1\OrderSystem_BLL.csproj.CopyComplete
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\obj\Debug\netcoreapp3.1\OrderSystem_BLL.dll
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\obj\Debug\netcoreapp3.1\OrderSystem_BLL.pdb
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_BLL\obj\Debug\netcoreapp3.1\OrderSystem_BLL.genruntimeconfig.cache

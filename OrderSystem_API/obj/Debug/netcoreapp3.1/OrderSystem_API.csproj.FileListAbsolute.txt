@@ -1,0 +1,5 @@
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_API\obj\Debug\netcoreapp3.1\OrderSystem_API.csproj.AssemblyReference.cache
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_API\obj\Debug\netcoreapp3.1\OrderSystem_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_API\obj\Debug\netcoreapp3.1\OrderSystem_API.AssemblyInfoInputs.cache
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_API\obj\Debug\netcoreapp3.1\OrderSystem_API.AssemblyInfo.cs
+C:\Users\malak\Desktop\AUB Internship\Order_System\OrderSystem_API\obj\Debug\netcoreapp3.1\OrderSystem_API.csproj.CoreCompileInputs.cache
